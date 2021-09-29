@@ -1,3 +1,11 @@
+Modifications in this fork:
+- Set title depth which creates a new slide
+- Scrollable content of the slides (for dokuwiki template)
+
+
+Original Description:
+---------------------
+
 s5 Plugin for DokuWiki
 
 All documentation for this plugin can be found at
